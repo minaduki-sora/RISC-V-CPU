@@ -1,0 +1,23 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.gen/sources_1/ip/data_mem_ip/sim/data_mem_ip.v,1652172680,verilog,,D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.gen/sources_1/ip/instruction_mem_ip/sim/instruction_mem_ip.v,,data_mem_ip,,,,,,,,
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.gen/sources_1/ip/instruction_mem_ip/sim/instruction_mem_ip.v,1652274690,verilog,,D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/CPU.v,,instruction_mem_ip,,,,,,,,
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sim_1/new/CPU_5_Stage_sim.v,1652326521,verilog,,,,CPU_5_Stage_sim,,,,,,,,
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sim_1/new/CPU_PL_sim.v,1652283005,verilog,,,,CPU_PL_sim,,,,,,,,
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/CPU.v,1652327866,verilog,,D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/CPU_PL.v,,CPU,,,,,,,,
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/CPU_PL.v,1652283170,verilog,,D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/Calculate.v,,CPU_PL,,,,,,,,
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/Calculate.v,1652337579,verilog,,D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/Control.v,,Calculate,,,,,,,,
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/Control.v,1652264867,verilog,,D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/EX_MEM.v,,Control,,,,,,,,
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/EX_MEM.v,1652231675,verilog,,D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/Forward_Unit.v,,EX_MEM,,,,,,,,
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/Forward_Unit.v,1652197097,verilog,,D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/Hazard_Unit.v,,Forward_Unit,,,,,,,,
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/Hazard_Unit.v,1652175570,verilog,,D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/ID_EX.v,,Hazard_Unit,,,,,,,,
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/ID_EX.v,1652269006,verilog,,D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/IF_ID.v,,ID_EX,,,,,,,,
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/IF_ID.v,1652176807,verilog,,D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/Imm_Gen.v,,IF_ID,,,,,,,,
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/Imm_Gen.v,1652272945,verilog,,D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/MEM_WB.v,,Imm_Gen,,,,,,,,
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/MEM_WB.v,1652232285,verilog,,D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/PDU_PL.v,,MEM_WB,,,,,,,,
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/PDU_PL.v,1652259763,verilog,,D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/Regfile.v,,pdu,,,,,,,,
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/Regfile.v,1652350467,verilog,,D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/pc_calc.v,,regfile,,,,,,,,
+D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sources_1/new/pc_calc.v,1652143122,verilog,,D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.srcs/sim_1/new/CPU_PL_sim.v,,pc_calc,,,,,,,,

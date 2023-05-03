@@ -1,0 +1,2 @@
+data_mem_ip.v,verilog,xil_defaultlib,../../../../lab5_5_Stage_CPU.gen/sources_1/ip/data_mem_ip/sim/data_mem_ip.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

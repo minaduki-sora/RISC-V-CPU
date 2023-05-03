@@ -1,0 +1,31 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: D:/application/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto ae76d4017394443fbbbf3742c6ead956 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L dist_mem_gen_v8_0_13 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot CPU_PL_sim_behav xil_defaultlib.CPU_PL_sim xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.pc_calc
+Compiling module dist_mem_gen_v8_0_13.dist_mem_gen_v8_0_13(C_FAMILY="a...
+Compiling module xil_defaultlib.instruction_mem_ip
+Compiling module xil_defaultlib.Hazard_Unit
+Compiling module xil_defaultlib.IF_ID
+Compiling module xil_defaultlib.Control
+Compiling module xil_defaultlib.regfile
+Compiling module xil_defaultlib.Imm_Gen
+Compiling module xil_defaultlib.ID_EX
+Compiling module xil_defaultlib.Calculate
+Compiling module xil_defaultlib.Forward_Unit
+Compiling module xil_defaultlib.EX_MEM
+Compiling module dist_mem_gen_v8_0_13.dist_mem_gen_v8_0_13(C_FAMILY="a...
+Compiling module xil_defaultlib.data_mem_ip
+Compiling module xil_defaultlib.MEM_WB
+Compiling module xil_defaultlib.CPU
+Compiling module xil_defaultlib.pdu
+Compiling module xil_defaultlib.CPU_PL
+Compiling module xil_defaultlib.CPU_PL_sim
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot CPU_PL_sim_behav

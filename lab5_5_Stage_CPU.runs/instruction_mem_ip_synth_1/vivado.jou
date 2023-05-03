@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed May 11 21:11:35 2022
+# Process ID: 488
+# Current directory: D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.runs/instruction_mem_ip_synth_1
+# Command line: vivado.exe -log instruction_mem_ip.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source instruction_mem_ip.tcl
+# Log file: D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.runs/instruction_mem_ip_synth_1/instruction_mem_ip.vds
+# Journal file: D:/learn/vivado/cod/lab5_5_Stage_CPU/lab5_5_Stage_CPU.runs/instruction_mem_ip_synth_1\vivado.jou
+#-----------------------------------------------------------
+source instruction_mem_ip.tcl -notrace
